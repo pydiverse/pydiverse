@@ -22,7 +22,6 @@ requirements:
     - python >=3.8
     - pydiverse.transform
     - pydiverse.pipedag
-    - pydiverse.pipetest
 
 test:
   requires:

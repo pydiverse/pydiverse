@@ -4,6 +4,7 @@ channels:
   - nodefaults
 dependencies:
   - pydiverse.transform
+  - pydiverse.pipedag
   - python>=3.8
   - make
   - numpydoc
